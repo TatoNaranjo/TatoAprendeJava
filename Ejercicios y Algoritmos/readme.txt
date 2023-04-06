@@ -1,1 +1,1 @@
-Espacio en donde subo mis ejercicios de Codeforces o cosas que me ayudan a mejorar mi lógica mediante java
+ESPACIO EN DONDE SUBO TODAS MIS SOLUCIONES A EJERCICIOS DE PROGRAMACIÓN COMPETITIVA QUE ME AYUDAN A MEJORAR MI LÓGICA CON EL LENGUAJE DE JAVA
